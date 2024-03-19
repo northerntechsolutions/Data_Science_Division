@@ -1,6 +1,6 @@
 # Northern Tech Solutions LLC - Data Science Repository
 
-Welcome to the Northern Tech Solutions LLC Data Analysts Repository! This repository has been created by the employees of Northern Tech Solutions LLC to showcase our work and provide potential candidates with the opportunity to demonstrate their skills and knowledge in data analysis.
+Welcome to the Northern Tech Solutions LLC Data Science Repository! This repository has been created by the employees of Northern Tech Solutions LLC to showcase our work and provide potential candidates with the opportunity to demonstrate their skills and knowledge in data analysis.
 
 ## About Northern Tech Solutions LLC
 
