@@ -1,0 +1,2 @@
+### Car Sales
+This dataset focuses on car sales at a dealership over the curse of the year. This dataset include columns that provide specific details for each car sale. By analyzing this dataset, you can gain a detailed understanding of auto sales trends over the time. In addition, this dataset allows you to preddict sales performance and analyze how differents factors influence sales.
