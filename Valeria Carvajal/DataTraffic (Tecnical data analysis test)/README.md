@@ -1,0 +1,4 @@
+## City Traffic
+This notebook is about traffic data within a futuristic urban environment. Each record of the Dataset represents a unique snapshot of various factors affecting traffic conditions in six fictional cities. 
+
+The analysis of this Dataset will allow us to understand traffic patterns, it envolves identify trends, behaviors and regularities in how traffic flows within the futuristic urban environments. Through this analysis, one can uncover information about how traffics behave under differents conditions, such as types o vehicles on the road, varying weather conditions, occurrences of random events.
